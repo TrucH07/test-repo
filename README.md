@@ -1,5 +1,5 @@
 # Testing out Github!
-Some kind of tect goes here
+Some kind of text goes here
 
 ## Fun subheader
-Insert midly funny lines here.
+Insert midly funny lines here. (OR maybe not).
